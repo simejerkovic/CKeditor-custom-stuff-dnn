@@ -19,7 +19,7 @@ A list of CKeditor DNN settings I use
 span;ul;li;table;td;style;*[id];*(*);*{*}
 ```
 
-- Ako ne želi ispisivati span klase idi u "Editor Config" i izvriši iz "Protected Source"
+- Ako ne želi ispisivati span klase idi u "Editor Config" i izbriši iz "Protected Source"
 ```
 ( /<span class[\s\S]*?>[\s\S]*?<\/span>/gi )
 ```
