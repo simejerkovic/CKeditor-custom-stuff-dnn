@@ -1,5 +1,5 @@
-# CKeditor-custom-stuff-dnn
-A list of CKeditor settings I use for DNN
+# CKeditor for DNN - Custom stuff
+A list of CKeditor DNN settings I use
 
 - Unutar "Editor Config" pretraži "StylesSet" i dodaj
 ```
