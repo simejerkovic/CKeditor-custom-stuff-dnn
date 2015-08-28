@@ -1,5 +1,5 @@
 # CKeditor for DNN - Custom stuff
-A list of CKeditor DNN settings I use
+Lista CKeditor postavki za DNN
 
 - Unutar "Editor Config" pretraži "StylesSet" i dodaj
 ```
