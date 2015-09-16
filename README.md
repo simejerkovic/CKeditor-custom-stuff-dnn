@@ -1,7 +1,11 @@
 # CKeditor for DNN - Custom stuff
-Lista CKeditor postavki za DNN
+- [CKeditor postavke](#ckeditor-postavke)
+- [CKeditor template](#ckeditor-template)
+- 
 
-- Unutar "Editor Config" pretraži "StylesSet" i dodaj
+### CKeditor postavke
+
+- Unutar "Editor Config" pretraži "StylesSet" i dodaj npr.
 ```
 [
     // Block Styles
@@ -23,3 +27,5 @@ span;ul;li;table;td;style;*[id];*(*);*{*}
 ```
 ( /<span class[\s\S]*?>[\s\S]*?<\/span>/gi )
 ```
+
+### CKeditor template
