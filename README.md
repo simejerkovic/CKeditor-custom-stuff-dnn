@@ -1,7 +1,6 @@
 # CKeditor for DNN - Custom stuff
 - [CKeditor postavke](#ckeditor-postavke)
 - [CKeditor template](#ckeditor-template)
-- 
 
 ### CKeditor postavke
 
