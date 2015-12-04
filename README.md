@@ -22,9 +22,9 @@
 span;ul;li;table;td;style;*[id];*(*);*{*}
 ```
 
-- Ako se span klase ne ispisuju idi u "Editor Config" i izbriši iz "Protected Source"
+- Ako se span, icon ili button klase ne ispisuju idi u "Editor Config" > "Protected Source" i izbriši sadržaj npr.:
 ```
-( /<span class[\s\S]*?>[\s\S]*?<\/span>/gi )
+[( /<i class[\s\S]*?>/g ),( /<\/i>/g ),( /<span class[\s\S]*?>/g ),( /<\/span>/g ),( /<em class[\s\S]*?>/g ),( /<\/em>/g ),( /<button class[\s\S]*?>/g ),( /<\/button>/g )]
 ```
 
 ### CKeditor template
